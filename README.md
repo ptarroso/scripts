@@ -15,4 +15,4 @@ Scripts associated with the publication
 
 [Molecular ecology spotlight article with Phylin](https://molecularecologyblog.com/2019/09/03/method-summary-mapping-genetic-patterns-across-landscapes-with-phylin)
 
-- MolEcolSpotlight.zip : code for the examples shown
+ - includes all R code to replicate the examples shown in the post
